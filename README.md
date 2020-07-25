@@ -3,14 +3,14 @@
 Hello! These are the materials for the computational photography workshop taught by Adam Ferriss (aferriss@gmail.com) at the Anderson Ranch summer of 2020.
 
 #### Table of Contents
-[Schedule](#schedule)
-[What is Computational Photograph](#what-is-computational-photography)
-[Workshop Format](#workshop-format)
-[What you'll get out of it](#what-youll-get-out-of-it)
-[Code of Conduct](#code-of-conduct)
-[Setting up your environment](#setting-up-your-coding-environment)
-[Code Examples](#code-examples)
-[Resources](#resources)
+- [Schedule](#schedule)
+- [What is Computational Photograph](#what-is-computational-photography)
+- [Workshop Format](#workshop-format)
+- [What you'll get out of it](#what-youll-get-out-of-it)
+- [Code of Conduct](#code-of-conduct)
+- [Setting up your environment](#setting-up-your-coding-environment)
+- [Code Examples](#code-examples)
+- [Resources](#resources)
 
 
 
