@@ -131,7 +131,8 @@ Everything below is arranged from least complex to most complex
 
 ### Image functions
 
-#### loadImage() and image()
+#### loadImage() and image()  
+
 [Loading and drawing an image](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)
 [![drawing an image](images/drawingImage.png)](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)
 [Resizing an image](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)
@@ -143,7 +144,8 @@ Everything below is arranged from least complex to most complex
 [Grid of images](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)
 [![grid of images](images/imageGrid.png)](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)
 
-#### filter()
+#### filter()  
+
 [Posterize](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)
 [![posterize](images/posterizeFilter.png)](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)
 [Blur](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)
@@ -153,7 +155,8 @@ Everything below is arranged from least complex to most complex
 [Invert](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)
 [![invert](images/invertFilter.png)](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)
 
-#### get()
+#### get()  
+
 [Image as lines](https://editor.p5js.org/aferriss/sketches/UJmdHqx_u)
 [![image as lines](images/imageAsLines.png)](https://editor.p5js.org/aferriss/sketches/UJmdHqx_u)
 [Concentric Rings](https://editor.p5js.org/aferriss/sketches/DZTQpJ5yS)
@@ -167,12 +170,14 @@ Everything below is arranged from least complex to most complex
 [Image chopper - Multiple Layers](https://editor.p5js.org/aferriss/sketches/l-aQewvtj)
 [![chopper](images/imageChopper.png)](https://editor.p5js.org/aferriss/sketches/l-aQewvtj)
 
-#### set()
+#### set()  
+
 [Threshold](https://editor.p5js.org/aferriss/sketches/xrK9geMRr)
 [![threshold](images/threshold.png)](https://editor.p5js.org/aferriss/sketches/xrK9geMRr)
 
 
-#### copy()
+#### copy()  
+
 [Slicer-upper vertical](https://editor.p5js.org/aferriss/sketches/_q0GykOh4)
 [![slicer vertical](images/verticalOffset.png)](https://editor.p5js.org/aferriss/sketches/_q0GykOh4)
 [Slicer-upper vertical and horizontal](https://editor.p5js.org/aferriss/sketches/45meFjN0m)
@@ -190,7 +195,8 @@ Everything below is arranged from least complex to most complex
 
 
 
-#### pixels array
+#### pixels array  
+
 [Single Pixel Sample](https://editor.p5js.org/aferriss/sketches/vpAEs1x5B)
 [![pixel sample](images/singleSample.png)](https://editor.p5js.org/aferriss/sketches/vpAEs1x5B)
 [Invert Color](https://editor.p5js.org/aferriss/sketches/Qa_68KTs8)
