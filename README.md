@@ -136,62 +136,102 @@ Everything below is arranged from least complex to most complex
 [Loading and drawing an image](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)  
 
 [![drawing an image](images/drawingImage.png)](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)
-[Resizing an image](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)
+
+[Resizing an image](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)  
+
 [![resized](images/resized.png)](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)
-[Drawing images at different sizes](https://editor.p5js.org/aferriss/sketches/78lSHPwgP)
+
+[Drawing images at different sizes](https://editor.p5js.org/aferriss/sketches/78lSHPwgP)  
+
 [![multiple sizes](images/multiSize.png)](https://editor.p5js.org/aferriss/sketches/78lSHPwgP)
-[Using an image as a brush](https://editor.p5js.org/aferriss/sketches/OHE5exvLc)
+
+[Using an image as a brush](https://editor.p5js.org/aferriss/sketches/OHE5exvLc)  
+
 [![image brush](images/imageBrush.png)](https://editor.p5js.org/aferriss/sketches/OHE5exvLc)
-[Grid of images](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)
+
+[Grid of images](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)  
+
 [![grid of images](images/imageGrid.png)](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)
 
 #### filter()  
 
-[Posterize](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)
+[Posterize](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)  
+
 [![posterize](images/posterizeFilter.png)](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)
-[Blur](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)
-[![blur](images/blurFilter.png)](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)
-[Threshold](https://editor.p5js.org/aferriss/sketches/nXztG1jOHf)
+
+[Blur](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)  
+
+[![blur](images/blurFilter.png)](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)  
+
+[Threshold](https://editor.p5js.org/aferriss/sketches/nXztG1jOHf)  
+
 [![threshold](images/thresholdFilter.png)](https://editor.p5js.org/aferriss/sketches/nXztG1jOHf)
-[Invert](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)
+
+[Invert](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)  
+
 [![invert](images/invertFilter.png)](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)
 
 #### get()  
 
 [Image as lines](https://editor.p5js.org/aferriss/sketches/UJmdHqx_u)
+
 [![image as lines](images/imageAsLines.png)](https://editor.p5js.org/aferriss/sketches/UJmdHqx_u)
+
 [Concentric Rings](https://editor.p5js.org/aferriss/sketches/DZTQpJ5yS)
+
 [![concentric rings](images/concentricRings.png)](https://editor.p5js.org/aferriss/sketches/DZTQpJ5yS)
+
 [Pixelate](https://editor.p5js.org/aferriss/sketches/DmcJX_3pg)
+
 [![pixelated](images/pixelate.png)](https://editor.p5js.org/aferriss/sketches/DmcJX_3pg)
+
 [Grid of circles](https://editor.p5js.org/aferriss/sketches/SPu1I9yOJ)
+
 [![grid of circles](images/circleGrid.png)](https://editor.p5js.org/aferriss/sketches/SPu1I9yOJ)
+
 [Random pixel walkers](https://editor.p5js.org/aferriss/sketches/tz9NjOu2A)
+
 [![pixel walkers](images/randomWalkers.png)](https://editor.p5js.org/aferriss/sketches/tz9NjOu2A)
+
 [Image chopper - Multiple Layers](https://editor.p5js.org/aferriss/sketches/l-aQewvtj)
+
 [![chopper](images/imageChopper.png)](https://editor.p5js.org/aferriss/sketches/l-aQewvtj)
 
 #### set()  
 
 [Threshold](https://editor.p5js.org/aferriss/sketches/xrK9geMRr)
+
 [![threshold](images/threshold.png)](https://editor.p5js.org/aferriss/sketches/xrK9geMRr)
 
 
 #### copy()  
 
 [Slicer-upper vertical](https://editor.p5js.org/aferriss/sketches/_q0GykOh4)
+
 [![slicer vertical](images/verticalOffset.png)](https://editor.p5js.org/aferriss/sketches/_q0GykOh4)
+
 [Slicer-upper vertical and horizontal](https://editor.p5js.org/aferriss/sketches/45meFjN0m)
+
 [![slicer both dir](images/verticalHorizontalOffset.png)](https://editor.p5js.org/aferriss/sketches/45meFjN0m)
+
 [Pixel Stretch Brush](https://editor.p5js.org/aferriss/sketches/Y_W6EK2gA)
+
 [![pixel stretch brush](images/pixelStretchBlock.png)](https://editor.p5js.org/aferriss/sketches/Y_W6EK2gA)
+
 [Pixel Line brush](https://editor.p5js.org/aferriss/sketches/6HdQFAcEm)
+
 [![pixel line brush](images/imageAsLines.png)](https://editor.p5js.org/aferriss/sketches/6HdQFAcEm)
+
 [Image offset brush](https://editor.p5js.org/aferriss/sketches/rg5bpO2h_)
+
 [![image offset brush](images/imageOffsetBrush.png)](https://editor.p5js.org/aferriss/sketches/rg5bpO2h_)
+
 [Feedback](https://editor.p5js.org/aferriss/sketches/FrTF-Po0R)
+
 [![feeback](images/copyFeedback.png)](https://editor.p5js.org/aferriss/sketches/FrTF-Po0R)
+
 [Offset glitchy grid](https://editor.p5js.org/aferriss/sketches/r8916miFo)
+
 [![glitchy grid](images/glitchyGrid.png)](https://editor.p5js.org/aferriss/sketches/r8916miFo)
 
 
@@ -199,22 +239,39 @@ Everything below is arranged from least complex to most complex
 #### pixels array  
 
 [Single Pixel Sample](https://editor.p5js.org/aferriss/sketches/vpAEs1x5B)
+
 [![pixel sample](images/singleSample.png)](https://editor.p5js.org/aferriss/sketches/vpAEs1x5B)
+
 [Invert Color](https://editor.p5js.org/aferriss/sketches/Qa_68KTs8)
+
 [![invert](images/invert.png)](https://editor.p5js.org/aferriss/sketches/Qa_68KTs8)
+
 [Invert Color - Feedback Brush](https://editor.p5js.org/aferriss/sketches/hOXtFRpns)
+
 [![invert brush](images/invertBrush.png)](https://editor.p5js.org/aferriss/sketches/hOXtFRpns)
+
 [Color Sampling Brush](https://editor.p5js.org/aferriss/sketches/cuBwO3bPQ)
+
 [![color sample brush](images/colorSampleBrush.png)](https://editor.p5js.org/aferriss/sketches/cuBwO3bPQ)
+
 [Random Colors](https://editor.p5js.org/aferriss/sketches/8zIvzGQ2M)
+
 [![random colors](images/randomColors.png)](https://editor.p5js.org/aferriss/sketches/8zIvzGQ2M)
+
 [Average color](https://editor.p5js.org/aferriss/sketches/x4W77PZVI)
+
 [![average color](images/averageColor.png)](https://editor.p5js.org/aferriss/sketches/x4W77PZVI)
+
 [Looping through pixels - multiple ways](https://editor.p5js.org/aferriss/sketches/Ozumm9KmB)
+
 [![pixel loops](images/pixelLoops.png)](https://editor.p5js.org/aferriss/sketches/Ozumm9KmB)
+
 [Convolution - Sharpen Brush](https://editor.p5js.org/aferriss/sketches/TQuYDbOKv)
+
 [![sharpen brush](images/sharpenBrush.png)](https://editor.p5js.org/aferriss/sketches/TQuYDbOKv)
+
 [Convolution - Emboss Feedback Brush](https://editor.p5js.org/aferriss/sketches/01SNvnh-e)
+
 [![emboss brush](images/embossBrush.png)](https://editor.p5js.org/aferriss/sketches/01SNvnh-e)
 
 ### Shaders
@@ -223,6 +280,7 @@ Everything below is arranged from least complex to most complex
 #### save() and exporting work
 
 [Save on keypress](https://editor.p5js.org/aferriss/sketches/rg5bpO2h_)
+
 [Save on button press](https://editor.p5js.org/aferriss/sketches/bhh2UJd_Z)
 
 
