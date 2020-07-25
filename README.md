@@ -71,7 +71,8 @@ July 27 - 31
 
 ## What is Computational Photography?
 
-![black hole](images/blackhole.jpg)
+![black hole](images/blackhole.jpg)  
+
 Computational Photography is actually a pretty broad term but for the purposes of this class, I am taking it to mean any method by which a photograph or digital image can be manipulated via code. 
 
 In the broader definition, it refers to imaging techniques that expand the capability of digital cameras / sensors through the use of software. A lot of this tech was made for our phones. Think of portrait mode on iPhones or Google's night sight on Androids. Newer techniques using machine learning have also been deployed for things like upscaling small images, removing noise and artifacts, or extracting 3d depth information from single photographs. We'll look at some of these new advances in the course of this workshop.
