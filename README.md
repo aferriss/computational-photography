@@ -338,6 +338,7 @@ Everything below is arranged from least complex to most complex
 - [Arrays and Loops - Coding Train](https://www.youtube.com/watch?v=RXWO3mFuW-I&t=1s)
 
 ### Environment and Code Editor
+- [VS Code](https://code.visualstudio.com/)
 - [Workflow: Visual Studio Code](https://www.youtube.com/watch?v=yJw0SyKO9IU)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) is a great code style guide / auto formatter. It also helps bring everyone's code into the same style which makes it easier to debug when reading code other people have written.
 - [Shader Language Support](https://marketplace.visualstudio.com/items?itemName=slevesque.shader) is super helpful for syntax highlighting when working with GLSL or other shader languages.
