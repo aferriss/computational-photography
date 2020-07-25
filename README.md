@@ -133,7 +133,8 @@ Everything below is arranged from least complex to most complex
 
 #### loadImage() and image()  
 
-[Loading and drawing an image](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)
+[Loading and drawing an image](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)  
+
 [![drawing an image](images/drawingImage.png)](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)
 [Resizing an image](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)
 [![resized](images/resized.png)](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)
