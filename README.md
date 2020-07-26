@@ -65,7 +65,6 @@ July 27 - 31
 
 #### Day 5 - Friday July 31 
 
-- Extra workshop time
 - Going further
 - Work Share / Critique
 
@@ -85,15 +84,15 @@ We'll be meeting on zoom every morning from 9am - 11am for live coding demos of 
 On Friday we'll all get together to share our work and critique.
 
 
-## What you'll get out of it
+## What (I hope) you'll get out of it
 
-My hope is that you take away some of the core techniques for learning how to manipulate images with code. Hopefully these are processes that will help further your own artistic practice and expand your tool set for artistic expression / ideation. What you produce here is up to you. If you want to make a suite of new tools for your own practice, great! If you want to just sit back and soak it in, that's totally fine too! 
+My hope is that you take away some of the core techniques for learning how to manipulate images with code. Hopefully these are processes that will help further your own artistic practice and expand your tool set for artistic expression / ideation. What you produce here is up to you. If you want to make a suite of new tools for your own practice, great! If you want to just sit back and soak it in and experiment with the examples I provide, that's totally fine too! 
 
 I'll be leaving this repo up as a resource for you and the general public for as long as I can so hopefully it is something you can return to for guidance or help for as long as you need it.
 
-I'm here to help you as much as I can so please don't hesitate to reach out if you need help or even just wanna chat (e-mail is great). Also reach out to your fellow workshop-mates. We're only together for a short time but I believe we can all learn from each other during this week.
+I'm here to help you as much as I can so please don't hesitate to reach out if you need help or even just wanna chat (e-mail is great but we can talk about setting up a slack or discord if people are interested). Also reach out to your fellow workshop-mates. We're only together for a short time but we can all learn from each other during this week.
 
-Lastly, I encourage you to consider the ways in which computational photography (and code based image making in general) might cause harm in the world (ex. face recognition used for surveilance by an authoritarian govt). What can we use these technologies for that will move the needle in the direction of racial and social justice?
+Lastly, I encourage you to consider the ways in which computational photography (and code based image making in general) might cause harm in the world (ex. face recognition used for surveilance by an authoritarian govt). What can we use these technologies for that will move the needle in the direction of racial, social, and ecological justice?
 
 ## Code of Conduct
 
@@ -275,6 +274,75 @@ Everything below is arranged from least complex to most complex
 [![emboss brush](images/embossBrush.png)](https://editor.p5js.org/aferriss/sketches/01SNvnh-e)
 
 ### Shaders
+
+[Simple Red Shader](https://editor.p5js.org/aferriss/sketches/ZXvJ14lLv)
+
+[![simple red](images/simpleRedShader.png)](https://editor.p5js.org/aferriss/sketches/ZXvJ14lLv)
+
+[Mouse Uniforms](https://editor.p5js.org/aferriss/sketches/RYT2u7-te)
+
+[![mouse uniforms](images/mouseUniforms.png)](https://editor.p5js.org/aferriss/sketches/RYT2u7-te)
+
+[Passing Uv's](https://editor.p5js.org/aferriss/sketches/14L9tqHFV)
+
+[![passing uvs](images/uvShader.png)](https://editor.p5js.org/aferriss/sketches/14L9tqHFV)
+
+[Texture 2D](https://editor.p5js.org/aferriss/sketches/m74DWvY9z)
+
+[![texture2D](images/texture2D.png)](https://editor.p5js.org/aferriss/sketches/m74DWvY9z)
+
+[Texture 2D - Offset](https://editor.p5js.org/aferriss/sketches/Uad5q03f0)
+
+[![Tex2d offset](images/texture2DOffset.png)](https://editor.p5js.org/aferriss/sketches/Uad5q03f0)
+
+[Texture 2D - Scale](https://editor.p5js.org/aferriss/sketches/-fROpY6zG)
+
+[![Texture 2D Scale](images/texture2DScale.png)](https://editor.p5js.org/aferriss/sketches/-fROpY6zG)
+
+[Texture Wrap](https://editor.p5js.org/aferriss/sketches/cwm7kEBcH)
+
+[![texture wrap](images/texture2DRepeat.png)](https://editor.p5js.org/aferriss/sketches/cwm7kEBcH)
+
+[Invert Colors](https://editor.p5js.org/aferriss/sketches/124gjwyyG)
+
+[![invert](images/invertShader.png)](https://editor.p5js.org/aferriss/sketches/124gjwyyG)
+
+[Wiggle Distort](https://editor.p5js.org/aferriss/sketches/H27Weuajr)
+
+[![Wiggle](images/wiggle.png)](https://editor.p5js.org/aferriss/sketches/H27Weuajr)
+
+[Brightness and Contrast](https://editor.p5js.org/aferriss/sketches/2E3Rl9PPG)
+
+[![brightness and contrast](images/brightnessContrast.png)](https://editor.p5js.org/aferriss/sketches/2E3Rl9PPG)
+
+[Smoothstep Threshold](https://editor.p5js.org/aferriss/sketches/wdT7661kh)
+
+[![Smooth thresh](images/smoothThreshold.png)](https://editor.p5js.org/aferriss/sketches/wdT7661kh)
+
+[Chromatic Aberration](https://editor.p5js.org/aferriss/sketches/Vf-h3VgO4)
+
+[![chroma aberrate](images/colorSep.png)](https://editor.p5js.org/aferriss/sketches/Vf-h3VgO4)
+
+[Pixelate](https://editor.p5js.org/aferriss/sketches/nAHtfUJcZ)
+
+[![Pixelate](images/pixelateShader.png)](https://editor.p5js.org/aferriss/sketches/nAHtfUJcZ)
+
+[Mix two images](https://editor.p5js.org/aferriss/sketches/1P3KwupKv)
+
+[![mix](images/blend.png)](https://editor.p5js.org/aferriss/sketches/1P3KwupKv)
+
+[Displacement](https://editor.p5js.org/aferriss/sketches/hlHzkj80Z)
+
+[![displacement](images/displacement.png)](https://editor.p5js.org/aferriss/sketches/hlHzkj80Z)
+
+[Blur](https://editor.p5js.org/aferriss/sketches/WxxbE4qeG)
+
+[![blur](images/blur.png)](https://editor.p5js.org/aferriss/sketches/WxxbE4qeG)
+
+[Emboss Convolution](https://editor.p5js.org/aferriss/sketches/jAPIT0hke)
+
+[![emboss](images/embossConvolution.png)](https://editor.p5js.org/aferriss/sketches/jAPIT0hke)
+
 
 
 #### save() and exporting work
