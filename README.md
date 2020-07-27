@@ -126,10 +126,29 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 
 ## In Class demo code
 
+### Monday
+
 - [Loading Images](https://editor.p5js.org/aferriss/sketches/AIOIo1Iha)
 - [Get - First Steps](https://editor.p5js.org/aferriss/sketches/LeZ383qUv)
 - [Get - For Loop](https://editor.p5js.org/aferriss/sketches/dZACrHEA2X)
 - [Get - Nested Loops](https://editor.p5js.org/aferriss/sketches/xHoVMmnMW)
+- [Get - Draw Shapes](https://editor.p5js.org/aferriss/sketches/2_uWH7ZOZ)
+- [Get - Random Walkers](https://editor.p5js.org/aferriss/sketches/r1uW_3qc_)
+- [Get - Image brush](https://editor.p5js.org/aferriss/sketches/8OLksBFO7)
+- [Get - Slitscan](https://editor.p5js.org/aferriss/sketches/8gIVVvPFn)
+- [Get - Random Walk Bugs](https://editor.p5js.org/aferriss/sketches/2mFQCc8Z3)
+- [Get - Concentric Rings](https://editor.p5js.org/aferriss/sketches/xHoVMmnMW)
+
+- [Get - Threshold](https://editor.p5js.org/aferriss/sketches/4wYRoPo7t)
+
+- [Filter - Dilate + Blur](https://editor.p5js.org/aferriss/sketches/8gIVVvPFn)
+
+- [Set - Single Pixel](https://editor.p5js.org/aferriss/sketches/zQehGMDf7)
+
+- [Copy - Simple](https://editor.p5js.org/aferriss/sketches/tZxgRjGIq)
+- [Copy - Pixel Stretch Brush](https://editor.p5js.org/aferriss/sketches/lxBUoMmGT)
+- [Copy - Pixel Slicer](https://editor.p5js.org/aferriss/sketches/AYOVCOUFe)
+- [Copy - Grid Offset](https://editor.p5js.org/aferriss/sketches/s04gz51uY)
 
 ## Code Examples
 
