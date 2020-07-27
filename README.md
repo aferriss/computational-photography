@@ -93,7 +93,7 @@ I'll be leaving this repo up as a resource for you and the general public for as
 
 I'm here to help you as much as I can so please don't hesitate to reach out if you need help or even just wanna chat (e-mail is great but we can talk about setting up a slack or discord if people are interested). Also reach out to your fellow workshop-mates. We're only together for a short time but we can all learn from each other during this week.
 
-Lastly, I encourage you to consider the ways in which computational photography (and code based image making in general) might cause harm in the world (ex. face recognition used for surveilance by an authoritarian govt). What can we use these technologies for that will move the needle in the direction of racial, social, and ecological justice?
+Lastly, I encourage you to consider the ways in which computational photography (and code based image making in general) might cause harm in the world (ex. face recognition used for surveillance by an authoritarian govt). What can we use these technologies for that will move the needle in the direction of racial, social, and ecological justice?
 
 ## Code of Conduct
 
@@ -117,11 +117,18 @@ This code of conduct was borrowed from the p5.js code of conduct but the same te
 
 ## Setting up your coding environment
 
-If you're just learning to code, or just want to get started quickly, I strongly recommend that you use the p5.js code editor which can be found at [https://p5js.editor.com](https://p5js.editor.com). Be sure to make an account, otherwise you won't be able to save your sketches or upload images. You can always download your code and move it to another environment later if you don't like the online editor.
+If you're just learning to code, or just want to get started quickly, I strongly recommend that you use the p5.js code editor which can be found at [https://editor.p5js.com](https://editor.p5js.com). Be sure to make an account, otherwise you won't be able to save your sketches or upload images. You can always download your code and move it to another environment later if you don't like the online editor.
 
 However, if you'd like to branch out and explore other options, I recommend you [download VSCode](https://code.visualstudio.com/). Along with VSCode you may want to download some [extensions](#environment-and-code-editor). I've listed a few of the ones I use below in the resource section, but of particular note is the VSCode live share extension. This may be useful so that we can code together during one on one sessions. The live server extension is also really handy for spinning up a localhost server (which you will need to use images) from within VSCode.
 
 If you opt to use VSCode, I've also provided a template p5.js project for you to start with. It also includes the typescript file so that code auto-completion will work out of the box. Just be sure to duplicate the template whenever you want to start a new sketch.
+
+## In Class demo code
+
+- [Loading Images](https://editor.p5js.org/aferriss/sketches/AIOIo1Iha)
+- [Get - First Steps](https://editor.p5js.org/aferriss/sketches/LeZ383qUv)
+- [Get - For Loop](https://editor.p5js.org/aferriss/sketches/dZACrHEA2X)
+- [Get - Nested Loops](https://editor.p5js.org/aferriss/sketches/xHoVMmnMW)
 
 ## Code Examples
 
