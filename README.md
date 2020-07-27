@@ -1,8 +1,9 @@
-# Computational Photography 
+# Computational Photography
 
 Hello! These are the materials for the computational photography workshop taught by Adam Ferriss (aferriss@gmail.com) at the Anderson Ranch summer of 2020.
 
 #### Table of Contents
+
 - [Schedule](#schedule)
 - [What is Computational Photograph](#what-is-computational-photography)
 - [Workshop Format](#workshop-format)
@@ -12,22 +13,20 @@ Hello! These are the materials for the computational photography workshop taught
 - [Code Examples](#code-examples)
 - [Resources](#resources)
 
-
-
-
 ## Schedule
 
 **\*The schedule may change depending on the pace and needs of the class!**
 
 #### Meeting Times
+
 July 27 - 31
 
-*The below times are in MST*
-9am - 11am Class time and demos 
+_The below times are in MST_
+9am - 11am Class time and demos
 11am - 1pm Lunch
 1pm - 4pm Class time and individual meetings
 
-#### Day 1 - Monday July 27  
+#### Day 1 - Monday July 27
 
 - Introductions
 - Workshop Overview
@@ -56,26 +55,26 @@ July 27 - 31
   - Texture2D
   - Shader functions `smoothstep()`, `step()`, `clamp()`, `mix()`
 
-#### Day 4 - Thursday July 30 
+#### Day 4 - Thursday July 30
+
 - Shaders Part 2
   - UV fun (wiggle, distort, displacement)
   - Shader convolution
 - Multipass rendering
   - Feedback
 
-#### Day 5 - Friday July 31 
+#### Day 5 - Friday July 31
 
 - Going further
 - Work Share / Critique
 
 ## What is Computational Photography?
 
-![black hole](images/blackhole.jpg)  
+![black hole](images/blackhole.jpg)
 
-Computational Photography is actually a pretty broad term but for the purposes of this class, I am taking it to mean any method by which a photograph or digital image can be manipulated via code. 
+Computational Photography is actually a pretty broad term but for the purposes of this class, I am taking it to mean any method by which a photograph or digital image can be manipulated via code.
 
 In the broader definition, it refers to imaging techniques that expand the capability of digital cameras / sensors through the use of software. A lot of this tech was made for our phones. Think of portrait mode on iPhones or Google's night sight on Androids. Newer techniques using machine learning have also been deployed for things like upscaling small images, removing noise and artifacts, or extracting 3d depth information from single photographs. We'll look at some of these new advances in the course of this workshop.
-
 
 ## Workshop Format
 
@@ -83,10 +82,9 @@ We'll be meeting on zoom every morning from 9am - 11am for live coding demos of 
 
 On Friday we'll all get together to share our work and critique.
 
-
 ## What (I hope) you'll get out of it
 
-My hope is that you take away some of the core techniques for learning how to manipulate images with code. Hopefully these are processes that will help further your own artistic practice and expand your tool set for artistic expression / ideation. What you produce here is up to you. If you want to make a suite of new tools for your own practice, great! If you want to just sit back and soak it in and experiment with the examples I provide, that's totally fine too! 
+My hope is that you take away some of the core techniques for learning how to manipulate images with code. Hopefully these are processes that will help further your own artistic practice and expand your tool set for artistic expression / ideation. What you produce here is up to you. If you want to make a suite of new tools for your own practice, great! If you want to just sit back and soak it in and experiment with the examples I provide, that's totally fine too!
 
 I'll be leaving this repo up as a resource for you and the general public for as long as I can so hopefully it is something you can return to for guidance or help for as long as you need it.
 
@@ -98,21 +96,21 @@ Lastly, I encourage you to consider the ways in which computational photography 
 
 This code of conduct was borrowed from the p5.js code of conduct but the same tenets apply in this workshop.
 
-* **Be mindful of your language.** Any of the following behavior is unacceptable: 
-  * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
-  * Threats of violence
-  * Deliberate intimidation
-  * Sexually explicit or violent material that is not contextualized and preceded by a considerate warning 
-  * Unwelcome sexual attention
-  * Stalking or following
-  * Or any other kinds of harassment
+- **Be mindful of your language.** Any of the following behavior is unacceptable:
+
+  - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
+  - Threats of violence
+  - Deliberate intimidation
+  - Sexually explicit or violent material that is not contextualized and preceded by a considerate warning
+  - Unwelcome sexual attention
+  - Stalking or following
+  - Or any other kinds of harassment
 
   Use your best judgement. If it will possibly make others uncomfortable, do not post it.
 
-* **Be respectful.** Disagreement is not an opportunity to attack someone elses thoughts or opinions. Although views may differ, remember to approach every situation with patience and care. 
-* **Be considerate.** Think about how your contribution will affect others in the community. 
-* **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
-
+- **Be respectful.** Disagreement is not an opportunity to attack someone elses thoughts or opinions. Although views may differ, remember to approach every situation with patience and care.
+- **Be considerate.** Think about how your contribution will affect others in the community.
+- **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 
 ## Setting up your coding environment
 
@@ -130,51 +128,51 @@ Everything below is arranged from least complex to most complex
 
 ### Image functions
 
-#### loadImage() and image()  
+#### loadImage() and image()
 
-[Loading and drawing an image](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)  
+[Loading and drawing an image](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)
 
 [![drawing an image](images/drawingImage.png)](https://editor.p5js.org/aferriss/sketches/4b5CCySZI)
 
-[Resizing an image](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)  
+[Resizing an image](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)
 
 [![resized](images/resized.png)](https://editor.p5js.org/aferriss/sketches/UgjO9vQm7)
 
-[Drawing images at different sizes](https://editor.p5js.org/aferriss/sketches/78lSHPwgP)  
+[Drawing images at different sizes](https://editor.p5js.org/aferriss/sketches/78lSHPwgP)
 
 [![multiple sizes](images/multiSize.png)](https://editor.p5js.org/aferriss/sketches/78lSHPwgP)
 
-[Using an image as a brush](https://editor.p5js.org/aferriss/sketches/OHE5exvLc)  
+[Using an image as a brush](https://editor.p5js.org/aferriss/sketches/OHE5exvLc)
 
 [![image brush](images/imageBrush.png)](https://editor.p5js.org/aferriss/sketches/OHE5exvLc)
 
-[Grid of images](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)  
+[Grid of images](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)
 
 [![grid of images](images/imageGrid.png)](https://editor.p5js.org/aferriss/sketches/0Z5PeqjlK)
 
-#### filter()  
+#### filter()
 
-[Posterize](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)  
+[Posterize](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)
 
 [![posterize](images/posterizeFilter.png)](https://editor.p5js.org/aferriss/sketches/qkjkaecOi)
 
-[Blur](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)  
+[Blur](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)
 
-[![blur](images/blurFilter.png)](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)  
+[![blur](images/blurFilter.png)](https://editor.p5js.org/aferriss/sketches/EuUnrBglp)
 
-[Threshold](https://editor.p5js.org/aferriss/sketches/nXztG1jOHf)  
+[Threshold](https://editor.p5js.org/aferriss/sketches/nXztG1jOHf)
 
 [![threshold](images/thresholdFilter.png)](https://editor.p5js.org/aferriss/sketches/nXztG1jOHf)
 
-[Invert](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)  
+[Invert](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)
 
 [![invert](images/invertFilter.png)](https://editor.p5js.org/aferriss/sketches/vL_KEIQlE)
 
-#### get()  
+#### get()
 
 [Image as lines](https://editor.p5js.org/aferriss/sketches/UJmdHqx_u)
 
-[![image as lines](images/imageAsLines.png)](https://editor.p5js.org/aferriss/sketches/UJmdHqx_u)
+[![image as lines](images/pixelWaveform.png)](https://editor.p5js.org/aferriss/sketches/UJmdHqx_u)
 
 [Concentric Rings](https://editor.p5js.org/aferriss/sketches/DZTQpJ5yS)
 
@@ -196,14 +194,13 @@ Everything below is arranged from least complex to most complex
 
 [![chopper](images/imageChopper.png)](https://editor.p5js.org/aferriss/sketches/l-aQewvtj)
 
-#### set()  
+#### set()
 
 [Threshold](https://editor.p5js.org/aferriss/sketches/xrK9geMRr)
 
 [![threshold](images/threshold.png)](https://editor.p5js.org/aferriss/sketches/xrK9geMRr)
 
-
-#### copy()  
+#### copy()
 
 [Slicer-upper vertical](https://editor.p5js.org/aferriss/sketches/_q0GykOh4)
 
@@ -233,9 +230,7 @@ Everything below is arranged from least complex to most complex
 
 [![glitchy grid](images/glitchyGrid.png)](https://editor.p5js.org/aferriss/sketches/r8916miFo)
 
-
-
-#### pixels array  
+#### pixels array
 
 [Single Pixel Sample](https://editor.p5js.org/aferriss/sketches/vpAEs1x5B)
 
@@ -343,19 +338,17 @@ Everything below is arranged from least complex to most complex
 
 [![emboss](images/embossConvolution.png)](https://editor.p5js.org/aferriss/sketches/jAPIT0hke)
 
-
-
 #### save() and exporting work
 
 [Save on keypress](https://editor.p5js.org/aferriss/sketches/rg5bpO2h_)
 
 [Save on button press](https://editor.p5js.org/aferriss/sketches/bhh2UJd_Z)
 
-
 ## Resources
 
 ### Pixels
-- [Adam's Pixel Collection on the p5 editor](https://editor.p5js.org/aferriss/collections/eK47k_qL8) 
+
+- [Adam's Pixel Collection on the p5 editor](https://editor.p5js.org/aferriss/collections/eK47k_qL8)
 - p5js Pixel and Image functions:
   - [get()](https://p5js.org/reference/#/p5/get)
   - [set()](https://p5js.org/reference/#/p5/set)
@@ -379,8 +372,8 @@ Everything below is arranged from least complex to most complex
 - [The Pixel Array - Coding Train](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 - [Brightness Mirror - Coding Train](https://www.youtube.com/watch?v=rNqaw8LT2ZU)
 
-
 ### Shaders
+
 - p5js Shader functions:
   - [p5.Shader](https://p5js.org/reference/#/p5.Shader)
   - [loadShader](https://p5js.org/reference/#/p5/loadShader)
@@ -395,6 +388,7 @@ Everything below is arranged from least complex to most complex
 - [Shader functions reference](https://www.shaderific.com/glsl-functions) is a reference for GLSL shader functions
 
 ### Javascript / p5
+
 - [p5js editor](https://editor.p5js.org/)
 - [p5js.org reference](https://p5js.org/reference) is where you can find information about all of the functionality of p5.js.
 - [p5js forum](https://discourse.processing.org/c/p5js/10) is a good place to ask questions or talk to other people working with p5
@@ -406,6 +400,7 @@ Everything below is arranged from least complex to most complex
 - [Arrays and Loops - Coding Train](https://www.youtube.com/watch?v=RXWO3mFuW-I&t=1s)
 
 ### Environment and Code Editor
+
 - [VS Code](https://code.visualstudio.com/)
 - [Workflow: Visual Studio Code](https://www.youtube.com/watch?v=yJw0SyKO9IU)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) is a great code style guide / auto formatter. It also helps bring everyone's code into the same style which makes it easier to debug when reading code other people have written.
