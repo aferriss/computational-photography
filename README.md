@@ -10,6 +10,7 @@ Hello! These are the materials for the computational photography workshop taught
 - [What you'll get out of it](#what-youll-get-out-of-it)
 - [Code of Conduct](#code-of-conduct)
 - [Setting up your environment](#setting-up-your-coding-environment)
+- [In class demos](#in-class-demo-code)
 - [Code Examples](#code-examples)
 - [Resources](#resources)
 
