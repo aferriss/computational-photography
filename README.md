@@ -22,8 +22,11 @@ Hello! These are the materials for the computational photography workshop taught
 July 27 - 31
 
 _The below times are in MST_
+
 9am - 11am Class time and demos
+
 11am - 1pm Lunch
+
 1pm - 4pm Class time and individual meetings
 
 #### Day 1 - Monday July 27
