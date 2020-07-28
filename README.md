@@ -162,6 +162,10 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 - [Average Color](https://editor.p5js.org/buckWorkshop/sketches/-HwBJLNi0)
 - [Simple blur algorithm](https://editor.p5js.org/buckWorkshop/sketches/4F4VbBKZu)
 
+- [FullScreen](https://editor.p5js.org/buckWorkshop/sketches/rsIKfM_g_)
+- [Convolution](https://editor.p5js.org/buckWorkshop/sketches/l7G85CSJ2)
+- [Pixel Sorting](https://editor.p5js.org/aferriss/sketches/fehK4235c)
+
 ## Code Examples
 
 I have created this collection of code example sketches for your reference. Most of them should be pretty well commented but if you've got questions about how anything is working, let me know!
