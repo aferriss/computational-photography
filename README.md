@@ -150,6 +150,18 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 - [Copy - Pixel Slicer](https://editor.p5js.org/aferriss/sketches/AYOVCOUFe)
 - [Copy - Grid Offset](https://editor.p5js.org/aferriss/sketches/s04gz51uY)
 
+### Tuesday
+
+- [Getting Pixels from the array](https://editor.p5js.org/buckWorkshop/sketches/asrUSvVtp)
+- [Getting Pixels brush](https://editor.p5js.org/buckWorkshop/sketches/5pW5VQ9gA)
+- [Setting Pixels - Gradient](https://editor.p5js.org/buckWorkshop/sketches/dohvNDnyL)
+- [Invert Pixels](https://editor.p5js.org/buckWorkshop/sketches/zBXTUYfKT)
+- [Invert Pixels Brush](https://editor.p5js.org/buckWorkshop/sketches/vNLQVKd9v)
+
+- [Line Drawer](https://editor.p5js.org/buckWorkshop/sketches/Cf-pkvTAg)
+- [Average Color](https://editor.p5js.org/buckWorkshop/sketches/-HwBJLNi0)
+- [Simple blur algorithm](https://editor.p5js.org/buckWorkshop/sketches/4F4VbBKZu)
+
 ## Code Examples
 
 I have created this collection of code example sketches for your reference. Most of them should be pretty well commented but if you've got questions about how anything is working, let me know!
