@@ -166,6 +166,13 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 - [Convolution](https://editor.p5js.org/buckWorkshop/sketches/l7G85CSJ2)
 - [Pixel Sorting](https://editor.p5js.org/aferriss/sketches/fehK4235c)
 
+### Wednesday
+
+- [First Shader](https://editor.p5js.org/buckWorkshop/sketches/Jo6kSR0zg)
+- [Texture Sample](https://editor.p5js.org/buckWorkshop/sketches/14qUMrRBg)
+- [Texture Offsets](https://editor.p5js.org/buckWorkshop/sketches/DpZnTBmVD)
+- [Texture Color Adjustments](https://editor.p5js.org/buckWorkshop/sketches/-PB-YWBPC)
+
 ## Code Examples
 
 I have created this collection of code example sketches for your reference. Most of them should be pretty well commented but if you've got questions about how anything is working, let me know!
