@@ -173,6 +173,14 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 - [Texture Offsets](https://editor.p5js.org/buckWorkshop/sketches/DpZnTBmVD)
 - [Texture Color Adjustments](https://editor.p5js.org/buckWorkshop/sketches/-PB-YWBPC)
 
+- [Using a Slider](https://editor.p5js.org/buckWorkshop/sketches/d1mOs4INA)
+- [Two Images Mixed](https://editor.p5js.org/buckWorkshop/sketches/UL9x_eSuu)
+- [Color Separation](https://editor.p5js.org/buckWorkshop/sketches/6voJjxfD_)
+- [Displacement](https://editor.p5js.org/buckWorkshop/sketches/eXXW6jLV3)
+- [Displacement Painter](https://editor.p5js.org/buckWorkshop/sketches/Y9wxsHuHF)
+
+- [Shader Masking](https://editor.p5js.org/buckWorkshop/sketches/xhbhil-n6)
+
 ## Code Examples
 
 I have created this collection of code example sketches for your reference. Most of them should be pretty well commented but if you've got questions about how anything is working, let me know!
