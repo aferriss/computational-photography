@@ -190,6 +190,8 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 - [Single Pass Blur](https://editor.p5js.org/buckWorkshop/sketches/g3p5vF_OI)
 - [Bloom](https://editor.p5js.org/buckWorkshop/sketches/oVy8Y53Up)
 - [Bloom Buffers](https://editor.p5js.org/buckWorkshop/sketches/FyMvw7G3J)
+- [Motion Detector](https://editor.p5js.org/buckWorkshop/sketches/t8vLTmHR1)
+- [Load and Save Video](https://editor.p5js.org/buckWorkshop/sketches/rjCcime7e)
 
 ## Code Examples
 
