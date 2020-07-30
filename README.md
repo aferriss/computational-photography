@@ -181,6 +181,16 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 
 - [Shader Masking](https://editor.p5js.org/buckWorkshop/sketches/xhbhil-n6)
 
+### Thursday
+
+- [Shadertoy to p5 conversion](https://editor.p5js.org/buckWorkshop/sketches/Bg9toEg0G)
+- [Posterized](https://editor.p5js.org/buckWorkshop/sketches/VIcHC1OMy)
+- [Pixelated](https://editor.p5js.org/buckWorkshop/sketches/lCUdHs2bi)
+- [Texture Rotation](https://editor.p5js.org/buckWorkshop/sketches/WkjdZ-O_I)
+- [Single Pass Blur](https://editor.p5js.org/buckWorkshop/sketches/g3p5vF_OI)
+- [Bloom](https://editor.p5js.org/buckWorkshop/sketches/oVy8Y53Up)
+- [Bloom Buffers](https://editor.p5js.org/buckWorkshop/sketches/FyMvw7G3J)
+
 ## Code Examples
 
 I have created this collection of code example sketches for your reference. Most of them should be pretty well commented but if you've got questions about how anything is working, let me know!
