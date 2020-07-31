@@ -193,6 +193,17 @@ If you opt to use VSCode, I've also provided a template p5.js project for you to
 - [Motion Detector](https://editor.p5js.org/buckWorkshop/sketches/t8vLTmHR1)
 - [Load and Save Video](https://editor.p5js.org/buckWorkshop/sketches/rjCcime7e)
 
+### Friday
+
+- [Load Video](https://editor.p5js.org/buckWorkshop/sketches/SF39_uz-Y)
+- [Load Sound](https://editor.p5js.org/buckWorkshop/sketches/HOlFT8AqL)
+- [Video + Audio with a shader](https://editor.p5js.org/buckWorkshop/sketches/Q1iOpGNTg)
+- [Slit Scan Video](https://editor.p5js.org/buckWorkshop/sketches/yT9xbsLHg)
+- [RGB Delay](https://editor.p5js.org/buckWorkshop/sketches/-gV1Wv3py)
+- [Feedback](https://editor.p5js.org/buckWorkshop/sketches/jwVg3EKlW)
+- [Vertex Shader](https://editor.p5js.org/buckWorkshop/sketches/XKgYf5XFk)
+- [Grid of Old Frames](https://editor.p5js.org/buckWorkshop/sketches/-y-jy0A8Z)
+
 ## Code Examples
 
 I have created this collection of code example sketches for your reference. Most of them should be pretty well commented but if you've got questions about how anything is working, let me know!
